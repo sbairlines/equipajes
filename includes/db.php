@@ -6,7 +6,7 @@ $db = new medoo([
 	'database_name' => 'equipajev2',
 	'server' => 'localhost',
 	'username' => 'root',
-	'password' => 'samsung1',
+	'password' => '',
 	'charset' => 'utf8',
 	 
 	// optional
